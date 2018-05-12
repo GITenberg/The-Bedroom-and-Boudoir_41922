@@ -1,0 +1,32 @@
+_repo: The-Bedroom-and-Boudoir_41922
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barker, Lady (Mary Anne)
+    aliases:
+    - Broome, Mary Anne Stewart Barker, Lady
+    - Broome, Lady (Mary Anne)
+    - Stewart, Mary Anne
+    - Barker, Mary Anne, Lady
+    birthdate: 1831
+    deathdate: 1911
+    gutenberg_agent_id: '1905'
+    url: http://www.gutenberg.org/2009/agents/1905
+description: ''
+gutenberg_issued: '2013-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41922'
+  lccn: '12003938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interior decoration'
+- !lcc 'NK'
+title: The Bedroom and Boudoir
+url: http://www.gutenberg.org/ebooks/41922
